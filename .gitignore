@@ -1,0 +1,8 @@
+.tmp
+
+.gradle
+gradle.properties
+
+build/
+
+stale_outputs_checked
