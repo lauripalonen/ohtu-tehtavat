@@ -6,3 +6,5 @@ gradle.properties
 build/
 
 stale_outputs_checked
+
+.idea
