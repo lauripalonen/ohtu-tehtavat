@@ -8,3 +8,6 @@ build/
 stale_outputs_checked
 
 .idea
+.classpath
+.project
+.settings
