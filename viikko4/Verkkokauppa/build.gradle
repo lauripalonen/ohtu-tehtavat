@@ -1,3 +1,11 @@
+plugins {
+    id 'jacoco'
+}
+
+jacoco {
+    toolVersion = "0.8.5"
+    reportsDir = file("$buildDir/customJacocoReportDir")
+}
 
 apply plugin: 'java'
 
@@ -18,6 +26,14 @@ dependencies {
 }
 
 mainClassName = 'ohtu.Main'
+
+jacocoTestReport {
+    reports {
+        xml.enabled false
+        csv.enabled false
+        html.destination file("${buildDir}/jacocoHtml")
+    }
+}
 
 run {
     standardInput = System.in
