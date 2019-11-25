@@ -12,3 +12,9 @@ Viikon 1 ohtuvarasto-repo: https://github.com/lauripalonen/ohtu-2019-viikko1
 [LoginCucumber](/viikko3/LoginCucumber)  
 [WebLogin](/viikko3/WebLogin)  
 [nhlreader](/viikko3/nhlreader)  
+## Viikko4
+[MockitoDemo](/viikko4/MockitoDemo)  
+[MaksukorttiMockito](/viikko4/MaksukorttiMockito)  
+[Verkkokauppa](/viikko4/Verkkokauppa)  
+[IntJoukkoSovellus](/viikko4/IntJoukkoSovellus)  
+[Tennis](/viikko4/Tennis)  
