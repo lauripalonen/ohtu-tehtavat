@@ -24,7 +24,6 @@ public class Nollaa extends Komento {
         sovellus.nollaa();
 
         paivitaNakyma(sovellus.tulos());
-        
     }
 
     @Override
