@@ -19,4 +19,5 @@ Viikon 1 ohtuvarasto-repo: https://github.com/lauripalonen/ohtu-2019-viikko1
 [IntJoukkoSovellus](/viikko4/IntJoukkoSovellus)  
 [Tennis](/viikko4/Tennis)  
 ## Viikko5
-[Laskin](/viikko5/LaskinFX8)
+[Laskin](/viikko5/LaskinFX8)  
+[retro.md](/retro.md)
